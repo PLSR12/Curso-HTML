@@ -10,7 +10,7 @@ Curso HTML
 <br>
 
 <p align="center">
-  <a href="#house-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#house-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
